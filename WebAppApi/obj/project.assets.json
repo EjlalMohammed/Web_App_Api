@@ -214,11 +214,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\train2\\source\\repos\\WebAppApi\\WebAppApi\\WebAppApi.csproj",
+      "projectUniqueName": "C:\\Users\\train2\\Desktop\\Web_App_Api\\WebAppApi\\WebAppApi.csproj",
       "projectName": "WebAppApi",
-      "projectPath": "C:\\Users\\train2\\source\\repos\\WebAppApi\\WebAppApi\\WebAppApi.csproj",
+      "projectPath": "C:\\Users\\train2\\Desktop\\Web_App_Api\\WebAppApi\\WebAppApi.csproj",
       "packagesPath": "C:\\Users\\train2\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\train2\\source\\repos\\WebAppApi\\WebAppApi\\obj\\",
+      "outputPath": "C:\\Users\\train2\\Desktop\\Web_App_Api\\WebAppApi\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
