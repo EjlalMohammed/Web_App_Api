@@ -27,7 +27,7 @@ namespace WebAppApi.Controllers
             var CurStudent = Students.Where(x => x.StudentId == Id).FirstOrDefault();
             if (CurStudent == null)
             {
-                return NotFound();
+                return NotFound("not found student with id"+Id);
             }
             return Ok (CurStudent);
                 

@@ -1,0 +1,12 @@
+C:\Users\train2\Desktop\Web_App_Api\Intrastructure\bin\Debug\net6.0\Intrastructure.deps.json
+C:\Users\train2\Desktop\Web_App_Api\Intrastructure\bin\Debug\net6.0\Intrastructure.dll
+C:\Users\train2\Desktop\Web_App_Api\Intrastructure\bin\Debug\net6.0\Intrastructure.pdb
+C:\Users\train2\Desktop\Web_App_Api\Intrastructure\obj\Debug\net6.0\Intrastructure.csproj.AssemblyReference.cache
+C:\Users\train2\Desktop\Web_App_Api\Intrastructure\obj\Debug\net6.0\Intrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\train2\Desktop\Web_App_Api\Intrastructure\obj\Debug\net6.0\Intrastructure.AssemblyInfoInputs.cache
+C:\Users\train2\Desktop\Web_App_Api\Intrastructure\obj\Debug\net6.0\Intrastructure.AssemblyInfo.cs
+C:\Users\train2\Desktop\Web_App_Api\Intrastructure\obj\Debug\net6.0\Intrastructure.csproj.CoreCompileInputs.cache
+C:\Users\train2\Desktop\Web_App_Api\Intrastructure\obj\Debug\net6.0\Intrastructure.dll
+C:\Users\train2\Desktop\Web_App_Api\Intrastructure\obj\Debug\net6.0\refint\Intrastructure.dll
+C:\Users\train2\Desktop\Web_App_Api\Intrastructure\obj\Debug\net6.0\Intrastructure.pdb
+C:\Users\train2\Desktop\Web_App_Api\Intrastructure\obj\Debug\net6.0\ref\Intrastructure.dll
