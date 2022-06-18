@@ -1,0 +1,127 @@
+﻿{
+   "CodeGenerationMode": 2,
+   "ContextClassName": "my_brandContext",
+   "ContextNamespace": "Data",
+   "DefaultDacpacSchema": null,
+   "FilterSchemas": false,
+   "IncludeConnectionString": false,
+   "ModelNamespace": "Models",
+   "OutputContextPath": "Data",
+   "OutputPath": "Models",
+   "ProjectRootNamespace": "WebAppApi",
+   "Schemas": null,
+   "SelectedHandlebarsLanguage": 0,
+   "SelectedToBeGenerated": 0,
+   "Tables": [
+      {
+         "Name": "[dbo].[bill_details_tb]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[dbo].[bills_tb]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[dbo].[cat_rm_tb]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[dbo].[categories_tb]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[dbo].[client_balance_tb]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[dbo].[client_deleted]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[dbo].[client_tb]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[dbo].[currency_tb]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[dbo].[role_tb]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[dbo].[row_materials_tb]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[dbo].[store]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[dbo].[store_balance_tb]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[dbo].[user_role_tb]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[dbo].[user_tb]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[dbo].[user_test]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[dbo].[categoreis_with_amount]",
+         "ObjectType": 3
+      },
+      {
+         "Name": "[dbo].[sales_amount]",
+         "ObjectType": 3
+      },
+      {
+         "Name": "[dbo].[total]",
+         "ObjectType": 3
+      },
+      {
+         "Name": "[dbo].[total_client_sales]",
+         "ObjectType": 3
+      },
+      {
+         "Name": "[dbo].[user_bills]",
+         "ObjectType": 3
+      },
+      {
+         "Name": "[dbo].[backup]",
+         "ObjectType": 1
+      },
+      {
+         "Name": "[dbo].[getcategory]",
+         "ObjectType": 1
+      },
+      {
+         "Name": "[dbo].[user_update]",
+         "ObjectType": 1
+      }
+   ],
+   "UiHint": "THARWATEXAM\\SQL2019STD.my_brand",
+   "UseBoolPropertiesWithoutDefaultSql": false,
+   "UseDatabaseNames": false,
+   "UseDbContextSplitting": false,
+   "UseFluentApiOnly": true,
+   "UseHandleBars": false,
+   "UseHierarchyId": false,
+   "UseInflector": true,
+   "UseLegacyPluralizer": false,
+   "UseManyToManyEntity": false,
+   "UseNoConstructor": false,
+   "UseNoDefaultConstructor": false,
+   "UseNoNavigations": false,
+   "UseNoObjectFilter": false,
+   "UseNodaTime": false,
+   "UseNullableReferences": false,
+   "UseSchemaFolders": false,
+   "UseSpatial": false
+}

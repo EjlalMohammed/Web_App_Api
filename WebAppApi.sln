@@ -5,13 +5,15 @@ VisualStudioVersion = 17.1.32210.238
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "WebAppApi", "WebAppApi\WebAppApi.csproj", "{68D4CB81-FE03-49F2-A997-1945273D81AF}"
 EndProject
-Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Intrastructure", "Intrastructure", "{8965382F-00DE-492B-ABC8-A9E926F8CFBC}"
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Infrastructure", "Infrastructure", "{8965382F-00DE-492B-ABC8-A9E926F8CFBC}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Intrastructure", "Intrastructure\Intrastructure.csproj", "{360F0122-CEA4-4D0E-B923-CFE5E06F950A}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Infrastructure", "Intrastructure\Infrastructure.csproj", "{360F0122-CEA4-4D0E-B923-CFE5E06F950A}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Domain", "Domain\Domain.csproj", "{15E159BD-D04C-47D1-83E6-8B26E2A3ECBF}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Domain", "Domain\Domain.csproj", "{15E159BD-D04C-47D1-83E6-8B26E2A3ECBF}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Core", "Core", "{C5F58E7D-8EAB-4869-8A4D-50E649474D25}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "WebApi", "WebApi", "{713C28B2-89EB-4D8D-9272-6F2FEC828774}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -36,6 +38,7 @@ Global
 		HideSolutionNode = FALSE
 	EndGlobalSection
 	GlobalSection(NestedProjects) = preSolution
+		{68D4CB81-FE03-49F2-A997-1945273D81AF} = {713C28B2-89EB-4D8D-9272-6F2FEC828774}
 		{360F0122-CEA4-4D0E-B923-CFE5E06F950A} = {8965382F-00DE-492B-ABC8-A9E926F8CFBC}
 		{15E159BD-D04C-47D1-83E6-8B26E2A3ECBF} = {C5F58E7D-8EAB-4869-8A4D-50E649474D25}
 	EndGlobalSection
